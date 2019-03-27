@@ -1,0 +1,146 @@
+{
+  "ranking_table":[
+    {
+      "id":1,
+      "player_name":"Rishabh Pant",
+      "type":"batsmen",
+      "pts":103,
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Default-welcomer.png/257px-Default-welcomer.png"
+    },
+
+    {
+      "id":2,
+      "player_name":"Shikhar Dhawan",
+      "type":"batsmen",
+      "pts":94,
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Default-welcomer.png/257px-Default-welcomer.png"
+    },    
+    {
+      "id":3,
+      "player_name":"David Warner",
+      "type":"batsmen",
+      "pts":85,
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Default-welcomer.png/257px-Default-welcomer.png"
+    },
+    {
+      "id":4,
+      "player_name":"Chris Gayle",
+      "type":"batsmen",
+      "pts":79,
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Default-welcomer.png/257px-Default-welcomer.png"
+    },
+    {
+      "id":5,
+      "player_name":"Jos Buttler",
+      "type":"batsmen",
+      "pts":69,
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Default-welcomer.png/257px-Default-welcomer.png"
+    },
+    {
+      "id":6,
+      "player_name":"Nitish Rana",
+      "type":"batsmen",
+      "pts":68,
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Default-welcomer.png/257px-Default-welcomer.png"
+    },
+    {
+      "id":7,
+      "player_name":"Yuvraj Singh",
+      "type":"batsmen",
+      "pts":53,
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Default-welcomer.png/257px-Default-welcomer.png"
+    },
+    {
+      "id":8,
+      "player_name":"Andre Russell",
+      "type":"batsmen",
+      "pts":49,
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Default-welcomer.png/257px-Default-welcomer.png"
+    },
+    {
+      "id":9,
+      "player_name":"Colin Ingram",
+      "type":"batsmen",
+      "pts":49,
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Default-welcomer.png/257px-Default-welcomer.png"
+    },
+    {
+      "id":10,
+      "player_name":"Suresh Raina",
+      "type":"batsmen",
+      "pts":49,
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Default-welcomer.png/257px-Default-welcomer.png"
+    },
+    {
+      "id":11,
+      "player_name":"Imran Tahir",
+      "type":"bowler",
+      "pts":4,
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Default-welcomer.png/257px-Default-welcomer.png"
+    },
+    {
+      "id":12,
+      "player_name":"Dwayne Bravo",
+      "type":"bowler",
+      "pts":4,
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Default-welcomer.png/257px-Default-welcomer.png"
+    },
+    {
+      "id":13,
+      "player_name":"Ravindra Jadeja",
+      "type":"bowler",
+      "pts":3,
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Default-welcomer.png/257px-Default-welcomer.png"
+    },
+    {
+      "id":14,
+      "player_name":"Harbhajan Singh",
+      "type":"bowler",
+      "pts":3,
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Default-welcomer.png/257px-Default-welcomer.png"
+    },
+    {
+      "id":15,
+      "player_name":"Kagiso Rabada",
+      "type":"bowler",
+      "pts":3,
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Default-welcomer.png/257px-Default-welcomer.png"
+    },
+    
+    {
+      "id":16,
+      "player_name":"Ishant Sharma",
+      "type":"bowler",
+      "pts":3,
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Default-welcomer.png/257px-Default-welcomer.png"
+    },
+    {
+      "id":17,
+      "player_name":"Mitchell McClenaghan",
+      "type":"bowler",
+      "pts":3,
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Default-welcomer.png/257px-Default-welcomer.png"
+    },
+    {
+      "id":18,
+      "player_name":"Mujeeb Ur Rahman",
+      "type":"bowler",
+      "pts":2,
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Default-welcomer.png/257px-Default-welcomer.png"
+    },
+    {
+      "id":19,
+      "player_name":"Ankit Rajpoot",
+      "type":"bowler",
+      "pts":2,
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Default-welcomer.png/257px-Default-welcomer.png"
+    },
+    {
+      "id":20,
+      "player_name":"Amit Mishra",
+      "type":"bowler",
+      "pts":2,
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Default-welcomer.png/257px-Default-welcomer.png"
+    }
+  ]
+}
