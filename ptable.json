@@ -1,7 +1,18 @@
 {
   "point_table":[
-    {
+      {
       "id":1,
+      "teams":"KKR",
+      "pld":2,
+      "won":2,
+      "lost":0,
+      "tied":0,
+      "n/r":0,
+      "pts":4,
+      "ntr":"+0.834"
+    },
+    {
+      "id":2,
       "teams":"CSK",
       "pld":2,
       "won":2,
@@ -12,7 +23,7 @@
       "ntr":"+0.495"
     },
     {
-      "id":2,
+      "id":3,
       "teams":"DC",
       "pld":2,
       "won":1,
@@ -23,26 +34,15 @@
       "ntr":"+0.782"
     },
     {
-      "id":3,
-      "teams":"KXIP",
-      "pld":1,
-      "won":1,
-      "lost":0,
-      "tied":0,
-      "n/r":0,
-      "pts":2,
-      "ntr":"+0.700"
-    },
-    {
       "id":4,
-      "teams":"KKR",
-      "pld":1,
+      "teams":"KXIP",
+      "pld":2,
       "won":1,
-      "lost":0,
+      "lost":1,
       "tied":0,
       "n/r":0,
       "pts":2,
-      "ntr":"+0.255"
+      "ntr":"-0.350"
     },
     {
       "id":5,
